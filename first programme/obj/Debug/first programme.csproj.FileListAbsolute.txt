@@ -1,0 +1,6 @@
+F:\visual studio code\newrepo\first programme\first programme\first programme\bin\Debug\first programme.exe.config
+F:\visual studio code\newrepo\first programme\first programme\first programme\bin\Debug\first programme.exe
+F:\visual studio code\newrepo\first programme\first programme\first programme\bin\Debug\first programme.pdb
+F:\visual studio code\newrepo\first programme\first programme\first programme\obj\Debug\first programme.csprojResolveAssemblyReference.cache
+F:\visual studio code\newrepo\first programme\first programme\first programme\obj\Debug\first programme.exe
+F:\visual studio code\newrepo\first programme\first programme\first programme\obj\Debug\first programme.pdb

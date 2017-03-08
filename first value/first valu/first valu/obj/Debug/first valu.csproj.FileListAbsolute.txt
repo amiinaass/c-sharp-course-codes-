@@ -1,0 +1,5 @@
+F:\visual studio code\newrepo\first programme\first programme\first value\first valu\first valu\bin\Debug\first valu.exe.config
+F:\visual studio code\newrepo\first programme\first programme\first value\first valu\first valu\bin\Debug\first valu.exe
+F:\visual studio code\newrepo\first programme\first programme\first value\first valu\first valu\bin\Debug\first valu.pdb
+F:\visual studio code\newrepo\first programme\first programme\first value\first valu\first valu\obj\Debug\first valu.exe
+F:\visual studio code\newrepo\first programme\first programme\first value\first valu\first valu\obj\Debug\first valu.pdb
