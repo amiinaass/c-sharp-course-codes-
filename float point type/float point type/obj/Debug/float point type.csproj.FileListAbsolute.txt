@@ -1,0 +1,6 @@
+F:\visual studio code\variable\float point type\float point type\bin\Debug\float point type.exe.config
+F:\visual studio code\variable\float point type\float point type\obj\Debug\float point type.csprojResolveAssemblyReference.cache
+F:\visual studio code\variable\float point type\float point type\bin\Debug\float point type.exe
+F:\visual studio code\variable\float point type\float point type\bin\Debug\float point type.pdb
+F:\visual studio code\variable\float point type\float point type\obj\Debug\float point type.exe
+F:\visual studio code\variable\float point type\float point type\obj\Debug\float point type.pdb
