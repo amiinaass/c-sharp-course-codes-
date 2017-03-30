@@ -1,0 +1,6 @@
+F:\visual studio code\variable\datatypes text\datatypes text\bin\Debug\datatypes text.exe.config
+F:\visual studio code\variable\datatypes text\datatypes text\bin\Debug\datatypes text.exe
+F:\visual studio code\variable\datatypes text\datatypes text\bin\Debug\datatypes text.pdb
+F:\visual studio code\variable\datatypes text\datatypes text\obj\Debug\datatypes text.csprojResolveAssemblyReference.cache
+F:\visual studio code\variable\datatypes text\datatypes text\obj\Debug\datatypes text.exe
+F:\visual studio code\variable\datatypes text\datatypes text\obj\Debug\datatypes text.pdb
