@@ -1,0 +1,6 @@
+F:\visual studio code\variable\literalcharacter\literalcharacter\bin\Debug\literalcharacter.exe.config
+F:\visual studio code\variable\literalcharacter\literalcharacter\bin\Debug\literalcharacter.exe
+F:\visual studio code\variable\literalcharacter\literalcharacter\bin\Debug\literalcharacter.pdb
+F:\visual studio code\variable\literalcharacter\literalcharacter\obj\Debug\literalcharacter.csprojResolveAssemblyReference.cache
+F:\visual studio code\variable\literalcharacter\literalcharacter\obj\Debug\literalcharacter.exe
+F:\visual studio code\variable\literalcharacter\literalcharacter\obj\Debug\literalcharacter.pdb
