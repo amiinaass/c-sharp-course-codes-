@@ -1,0 +1,6 @@
+F:\visual studio code\variable\my string variable\my string variable\bin\Debug\my string variable.exe.config
+F:\visual studio code\variable\my string variable\my string variable\bin\Debug\my string variable.exe
+F:\visual studio code\variable\my string variable\my string variable\bin\Debug\my string variable.pdb
+F:\visual studio code\variable\my string variable\my string variable\obj\Debug\my string variable.csprojResolveAssemblyReference.cache
+F:\visual studio code\variable\my string variable\my string variable\obj\Debug\my string variable.exe
+F:\visual studio code\variable\my string variable\my string variable\obj\Debug\my string variable.pdb

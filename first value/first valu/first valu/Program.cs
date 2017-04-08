@@ -10,8 +10,8 @@ namespace first_valu
     {
         static void Main(string[] args)
         {
-            int x = 25;
-            Console.WriteLine("my first value = (0)", x);
+
+            Console.WriteLine("amine assaddiki");
             Console.ReadKey();
         }
     }
