@@ -1,0 +1,6 @@
+F:\visual studio code\variable\operator operund expression\operator operund expression\bin\Debug\operator operund expression.exe.config
+F:\visual studio code\variable\operator operund expression\operator operund expression\bin\Debug\operator operund expression.exe
+F:\visual studio code\variable\operator operund expression\operator operund expression\bin\Debug\operator operund expression.pdb
+F:\visual studio code\variable\operator operund expression\operator operund expression\obj\Debug\operator operund expression.csprojResolveAssemblyReference.cache
+F:\visual studio code\variable\operator operund expression\operator operund expression\obj\Debug\operator operund expression.exe
+F:\visual studio code\variable\operator operund expression\operator operund expression\obj\Debug\operator operund expression.pdb
